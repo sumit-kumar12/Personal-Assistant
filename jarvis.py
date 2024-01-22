@@ -13,7 +13,7 @@ import os
 import smtplib                      #pip install smtp
 import openai
 
-openai.api_key = "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"
+openai.api_key = "enter API key open AI "
 
 
 engine = pyttsx3.init('sapi5')
